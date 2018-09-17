@@ -1,0 +1,13 @@
+Employment Status,Employment Status Code
+Full-Time,1
+Unknown/Other,7
+Part-Time,2
+Apprenticeship Full-Time,A
+Seasonal,8
+On Strike,4
+Piece Worker,C
+Not Employed,3
+Disabled,5
+Apprenticeship Part-Time,B
+Retired,6
+Volunteer,9
